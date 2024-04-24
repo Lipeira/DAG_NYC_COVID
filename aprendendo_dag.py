@@ -22,8 +22,8 @@ def insert_db(ti):
         
         df.to_csv("dataframe.csv")
         # Configurar as credenciais AWS
-        aws_access_key_id = 'AKIATYGP6OBAXBO3OLML'
-        aws_secret_access_key = '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'
+        aws_access_key_id = 
+        aws_secret_access_key = 
         s3_bucket_name = 'awsextreme'
         csv_file_name = 'dataframe.csv'
 
